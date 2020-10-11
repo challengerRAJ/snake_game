@@ -7,3 +7,5 @@ Features:
 4. Hitting snake’s own body will end up the game.
 5. Score will be incremented when snake eats food. 
 6. Press x to exit.
+
+![](snake_game/snake.png)

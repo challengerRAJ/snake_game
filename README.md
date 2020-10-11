@@ -8,4 +8,4 @@ Features:
 5. Score will be incremented when snake eats food. 
 6. Press x to exit.
 
-![](snake_game/snake.png)
+![snake](https://user-images.githubusercontent.com/34388830/95681624-94bdd680-0bfe-11eb-992a-de46bcf8a1bb.png)

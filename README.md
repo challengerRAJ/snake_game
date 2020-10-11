@@ -8,4 +8,4 @@ Features:
 5. Score will be incremented when snake eats food. 
 6. Press x to exit.
 
-![](snake.jpg)
+![](snake.png)
